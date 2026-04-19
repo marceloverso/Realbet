@@ -1,5 +1,5 @@
-date,home_team,away_team,home_goals,away_goals
-2023-01-01,Team A,Team B,2,1
-2023-01-02,Team C,Team D,0,0
-2023-01-03,Team E,Team F,3,2
-2023-01-04,Team G,Team H,1,0
+date,home_team,away_team,home_goals,away_goals,btts_odds
+2023-01-01,Team A,Team B,2,1,1.85
+2023-01-02,Team C,Team D,0,0,1.72
+2023-01-03,Team E,Team F,3,2,1.90
+2023-01-04,Team G,Team H,1,0,1.68
