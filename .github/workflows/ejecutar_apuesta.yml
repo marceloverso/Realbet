@@ -26,5 +26,5 @@ jobs:
 
       - name: Ejecutar script
         # Usamos working-directory para que el script se ejecute "dentro" de la carpeta apuestas
-        working-directory: ./apuestas
+        working-directory: ./apuestas_modelo
         run: python main.py
